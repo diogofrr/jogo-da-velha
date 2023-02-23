@@ -1,4 +1,4 @@
-# jogo-da-velha
+# Jogo da Velha
 
 Este é um jogo da velha simples feito por mim utilizando apenas HTML, CSS e Javascript.
 
